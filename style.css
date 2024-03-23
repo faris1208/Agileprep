@@ -1063,12 +1063,12 @@ z-index: 1;
     /* border: 2px solid red; */
 }
 
+
+
 .Terms-Conditions ul{
     display: flex;
     justify-content: center;
 }
-
-
 
 .Terms-Conditions ul li{
     list-style: none;
