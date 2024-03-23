@@ -430,6 +430,12 @@ nav{
     cursor: pointer;
 }
 
+#more-b{
+    display: none;
+}
+
+
+
 .Advisor-Container{
     background: #EBF1F8;
     padding: 15px 20px 20px;
@@ -1630,6 +1636,10 @@ z-index: 1;
         cursor: pointer;
     }
 
+    #more-b{
+        display: block;
+    }
+
     #more-a{
         display: none;
     }
@@ -1642,7 +1652,7 @@ z-index: 1;
     .Advisor-text {
         margin-bottom: 10px;
     }
-    
+
     
     .Advisor-text h3{
         font-size: 20px;
