@@ -1068,6 +1068,8 @@ z-index: 1;
     justify-content: center;
 }
 
+
+
 .Terms-Conditions ul li{
     list-style: none;
     font-size: 14px;
@@ -1077,8 +1079,6 @@ z-index: 1;
     font-weight: normal;
     font-style: normal;
 }
-
-
 
 .Nigeria{
     display: flex;
